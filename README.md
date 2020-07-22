@@ -1,3 +1,4 @@
 # About-Me
-![Alt Text](https://github.com/leo-chan1020/aplikasi-web-corona/blob/master/bandicam%202020-04-23%2009-48-28-068.jpg)
+![Alt Text](https://github.com/leo-chan1020/About-Me/blob/master/20190426_163416.jpg)
 Nama: James Hestu Satria
+Tempat Tanggal Lahir: Wonosobo, 10 Juni 2004
