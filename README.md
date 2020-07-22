@@ -5,3 +5,4 @@
 # Alamat asal: Jln. Simpang danau maninjau selatan dalam 1 blok D2 D17.
 # Hobi: Main Game, Main Basket, Travelling.
 # IG: @mr.sleepless_owl
+# Gopay/OVO: 082165319310
